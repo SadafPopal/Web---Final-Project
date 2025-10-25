@@ -1,0 +1,26 @@
+{
+  "schema": "pocket-classroom/v1",
+  "id": "pc_sample",
+  "meta": {
+    "title": "Introduction to HTML",
+    "subject": "Web Development",
+    "level": "Beginner",
+    "description": "Short capsule about HTML basics."
+  },
+  "notes": [
+    "HTML stands for HyperText Markup Language.",
+    "Elements are written with tags like <p>, <h1>, and <a>."
+  ],
+  "flashcards": [
+    { "front": "What does HTML stand for?", "back": "HyperText Markup Language" },
+    { "front": "Tag for paragraph?", "back": "<p>" }
+  ],
+  "quiz": [
+    {
+      "question": "Which tag creates a link?",
+      "options": ["<link>", "<a>", "<href>", "<url>"],
+      "answer": "<a>",
+      "explanation": "The <a> tag creates hyperlinks."
+    }
+  ]
+}
